@@ -1,0 +1,6 @@
+{
+  "name": "Nexus High School, Bushenyi",
+  "description": "Official institutional portal for Nexus High School, Bushenyi featuring modern split hero and integrated parallax academic pillars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
